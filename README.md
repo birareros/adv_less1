@@ -1,2 +1,2 @@
-# adv_less1
-ITEA devops_advanced lesson1
+# adv_less2
+ITEA devops_advanced lesson2
